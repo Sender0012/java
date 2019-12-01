@@ -7,6 +7,6 @@ public class Main {
 	    System.out.println("Sender");
         System.out.println("SENDER2");
 		
-	System.out.pritnln("Sender3");	
+	System.out.println("Sender3");
     }
 }
